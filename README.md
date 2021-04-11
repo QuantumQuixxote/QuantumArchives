@@ -15,3 +15,6 @@ QQ Archives
 
 ### Quantum Counter Conduance of Non Majorana Stares in Proximised Nanowires
 - https://www.nature.com/articles/s41567-020-01107-w
+
+### Quantum Knots of Kauffman Kind
+- https://physicsworld.com/a/quantum-computing-with-a-twist/
